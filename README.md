@@ -9,7 +9,8 @@ My Projects 💻
 ---
 
 Name | Description
----
+---|---
+Project|Description
 
 
 
