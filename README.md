@@ -1,12 +1,12 @@
-😄
-# Hi, I'm Javier. Currently a Year 1 Computer Science Student.
+### 😄 Hi
+#### Hi, I'm Javier. Currently a Year 1 Computer Science Student.
 
 
 
 
 
-
-# My Projects 💻
+My Projects 💻
+---
 
 Name | Description
 ---
@@ -14,7 +14,8 @@ Name | Description
 
 
 
-# Languages / Frameworks I've worked with
+Languages / Frameworks I've worked with
+---
 
 * Python
 * C
