@@ -7,6 +7,7 @@
 
 My Projects 💻
 ---
+This is a non-exhaustive list of projects I've done/am working on.
 
 Name | Description
 ---|---
