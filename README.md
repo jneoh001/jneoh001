@@ -1,5 +1,5 @@
 ### 😄 Hi
-#### Hi, I'm Javier. Currently a Year 1 Computer Science Student.
+#### Hi, I'm Javier. Currently a Year 2 Computer Science Student.
 
 
 
