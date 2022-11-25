@@ -24,3 +24,5 @@ Languages / Frameworks I've worked with
 * HTML
 * CSS
 * Java
+* C++ 
+
