@@ -25,4 +25,5 @@ Languages / Frameworks I've worked with
 * CSS
 * Java
 * C++ 
+* JavaScript
 
