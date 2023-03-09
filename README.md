@@ -1,5 +1,7 @@
 <h1>😄Hi, I'm Javier. Currently a Year 2 Computer Science Student. I am interested in creating applications that people are able to enjoy and benefit from :). </h1>
 <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jneoh001)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>My Projects</h2> 💻
 This is a non-exhaustive list of projects I've done/am working on.
