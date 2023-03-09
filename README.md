@@ -1,7 +1,15 @@
+<div id="header" align="center">
+  <img src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/javierneoh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <h1>😄Hi, I'm Javier. Currently a Year 2 Computer Science Student. I am interested in creating applications that people are able to enjoy and benefit from :). </h1>
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jneoh001)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h2>My Projects</h2> 💻
