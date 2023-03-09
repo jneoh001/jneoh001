@@ -1,9 +1,6 @@
 ### 😄 Hi
 #### Hi, I'm Javier. Currently a Year 2 Computer Science Student. I am interested in creating applications that people are able to enjoy and benefit from :).
-
-
-
-
+<br />
 
 <h2>My Projects</h2> 💻
 ---
@@ -15,9 +12,8 @@ Project|Description
 
 
 
-
+</br>
 <h2>Languages / Frameworks I've worked with </h2>
----
 
 <span>Languages</span>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
