@@ -1,11 +1,11 @@
 ### 😄 Hi
-#### Hi, I'm Javier. Currently a Year 2 Computer Science Student.
+#### Hi, I'm Javier. Currently a Year 2 Computer Science Student. I am interested in creating applications that people are able to enjoy and benefit from :).
 
 
 
 
 
-<h2>?My Projects</h2> 💻
+<h2>My Projects</h2> 💻
 ---
 This is a non-exhaustive list of projects I've done/am working on.
 
@@ -19,7 +19,7 @@ Project|Description
 <h2>Languages / Frameworks I've worked with </h2>
 ---
 
-Languages
+<span>Languages</span>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -29,5 +29,5 @@ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Frameworks
+<span>Frameworks</span>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
