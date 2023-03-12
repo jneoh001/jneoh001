@@ -28,10 +28,13 @@
 <h2>My Projects</h2> 💻
 This is a non-exhaustive list of projects I've done/am working on.
 
-Name | Description
----|---
-Project|Description
-  
+ | Project Name |                                                    Description                                                   | Languages/Frameworks         | Status 
+|:------------:|:----------------------------------------------------------------------------------------------------------------:|------------------------------|-----
+| Arceus       | Arceus is a recipe web application that aims to provide users <br/>  with a one-stop solution for their recipe needs.  | HTML,CSS,JS,ReactJS,Firebase  |  :large_orange_diamond: In Progress
+| MatchTheCard | Single page Web App Game. Clasic Memory game where users try to match the cards they flip over.                                                                                         | Mostly ReactJS               |     :white_check_mark: Complete
+|              |                                                                                                                  |                              |
+|              |                                                                                                                  |                              |
+
 </div>
 
 
