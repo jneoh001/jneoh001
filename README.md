@@ -1,4 +1,4 @@
-## <div id="intro-text" align="center"> About Me </div>
+## <div id="intro-text" align="center"> :blue_book: About Me :blue_book: </div>
   <p align="center">
        Hi, I'm Javier. 😄 <br/> Currently a Year 2 Computer Science Student. <br/> I am interested in creating applications that people are able to enjoy and                 benefit from :)
   </p>
@@ -29,7 +29,7 @@
 
 <br />
 <div id="projects" align="center">
-<h2>My Projects</h2> 💻
+<h2>💻My Projects💻</h2>
 This is a non-exhaustive list of projects I've done/am working on.
 
  | Project Name |                                                    Description                                                   | Languages/Frameworks         | Status 
@@ -44,7 +44,7 @@ This is a non-exhaustive list of projects I've done/am working on.
 
 <div id="languages" align="center">
   </br>
-  <h2>Languages / Frameworks I've worked with </h2> <br/>
+  <h2>🎉 Languages / Frameworks I've worked with 🎉 </h2> <br/>
 
   <div>Languages</div>
   <br/>
