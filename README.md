@@ -34,10 +34,10 @@ This is a non-exhaustive list of projects I've done/am working on.
 
  | Project Name |                                                    Description                                                   | Languages/Frameworks         | Status 
 |:------------:|:----------------------------------------------------------------------------------------------------------------:|------------------------------|-----
-| Arceus       | Arceus is a recipe web application that aims to provide users <br/>  with a one-stop solution for their recipe needs.  | HTML,CSS,JS,ReactJS,Firebase  |  :white_check_mark: Complete
-| MatchTheCard | Single page Web App Game. Clasic Memory game where users try to match the cards they flip over.                                                                                         | Mostly ReactJS               |     :white_check_mark: Complete
-  | Shopify Clothing Website| Simple Shopify Website <br /> Password: password <br />  <a href="http://www.javierneoh.myshopify.com"> ![Click Me](https://img.shields.io/badge/Click_Me-37a779?style=for-the-badge) </a>  | Shopify |  :white_check_mark: Complete
-|        |     |       |
+| Arceus       | Arceus is a recipe web application that aims to provide users <br/>  with a one-stop solution for their recipe needs.  | HTML,CSS,JS,ReactJS,Firebase  |  ✅
+| MatchTheCard | Single page Web App Game. Clasic Memory game where users try to match the cards they flip over.                                                                                         | Mostly ReactJS               |   ✅
+  | Shopify Clothing Website| Simple Shopify Website <br /> Password: password <br />  <a href="http://www.javierneoh.myshopify.com"> ![Click Me](https://img.shields.io/badge/Click_Me-37a779?style=for-the-badge) </a>  | Shopify | ✅
+|   GoalApp     |  Simple To Do Goals App   |  React Native     | ✅ 
 
 </div>
 
