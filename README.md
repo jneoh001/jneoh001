@@ -39,7 +39,7 @@ This is a non-exhaustive list of projects I've done/am working on.
   | Shopify Clothing Website| Simple Shopify Website <br /> Password: password <br />  <a href="http://www.javierneoh.myshopify.com"> ![Click Me](https://img.shields.io/badge/Click_Me-37a779?style=for-the-badge) </a>  | Shopify | ✅
 |   GoalApp     |  Simple To Do Goals App   |  React Native     | ✅ 
 |   Photobacked    |  Photo Storage and Retreival Application   |  Java,Java Spring Boot, Spring JDBC, Spring Web, Maven  | ✅
-|   URLShortener    |  Backend URL Shortener   |  Go lang  | ✅ 
+|   URLShortener    |  Backend URL Shortener   |  Go   | ✅ 
 
 </div>
 
