@@ -1,6 +1,6 @@
 ## <div id="intro-text" align="center"> :blue_book: About Me :blue_book: </div>
   <p align="center">
-       Hi, I'm Javier. 😄 <br/> Currently a Year 4 Computer Science Student. <br/> I am interested in creating applications that people are able to enjoy and                 benefit from :)
+       Hi, I'm Javier. 😄 <br/> I love creating applications that people are able to enjoy and                 benefit from :)
   </p>
 
 
