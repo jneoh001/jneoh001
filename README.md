@@ -9,24 +9,6 @@
 </div>
 
 
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/javierneoh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-   <a href="https://www.instagram.com/javierneoh/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  
-  <a href="mailto:jneoh001@e.ntu.edu.sg">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  
-  </a>
-</div>
-
-
-
 <br />
 <div id="projects" align="center">
 <h2>💻My Projects💻</h2>
